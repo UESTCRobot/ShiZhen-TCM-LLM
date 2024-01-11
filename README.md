@@ -15,4 +15,4 @@ TCM LLM by UESTC(“时珍”大模型-电子科技大学多轮对话中医大�
 
 - [LlaMA](https://github.com/facebookresearch/llama)
 
-Logo由[DALLE]([https://openai.com/dall-e-3])自动生成。
+Logo由[DALLE](https://openai.com/dall-e-3)自动生成。
